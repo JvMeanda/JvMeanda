@@ -4,8 +4,8 @@
  - 🌱Buscando sempre evoluir 
  <div align="center">
   <a href="https://github.com/JvMeanda">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=JvMeanda&show_icons=true&theme=noctis_minimus&include_all_commits=true&count_private=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JvMeanda&layout=compact&langs_count=7&theme=noctis_minimus"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JvMeanda&show_icons=true&theme=noctis_minimus&include_all_commits=true&count_private=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JvMeanda&layout=compact&langs_count=7&theme=noctis_minimus"/>
    
   </div>
  
