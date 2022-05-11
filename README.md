@@ -25,5 +25,5 @@
   <div>
   <a href = "mailto:meanda.barroso@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"     height="28"></a>
   <a href="https://web.whatsapp.com/send?phone=5522992383268" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="28"></a>
-  <a href="https://instagram.com/meanda" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank" height="28"></a>
+  <a href="https://instagram.com/meanda.barroso" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank" height="28"></a>
   </div>
