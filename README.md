@@ -1,6 +1,7 @@
 # Olá! Me chamo João Victor
 ### Bem vindo ao meu perfil GitHub 👋
- - 💻Estudando Front-End
+ - 💻Programador Front-End
+ - Web e Mobile
  - 🌱Buscando sempre evoluir 
  <div align="center">
   <a href="https://github.com/JvMeanda">
